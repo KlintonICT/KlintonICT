@@ -25,7 +25,7 @@
 </table>
 
 ### Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KlintonICT&theme=blue-green)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KlintonICT&layout=compact&theme=blue-green)
 
 ### GitHub Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=KlintonICT&theme=blue-green)
